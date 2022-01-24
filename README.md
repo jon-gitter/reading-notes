@@ -32,6 +32,24 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jon-gitter/reading-notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+Basic Syntax
+These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+Element	Markdown Syntax
+Heading	# H1
+## H2
+### H3
+Bold	**bold text**
+Italic	*italicized text*
+Blockquote	> blockquote
+Ordered List	1. First item
+2. Second item
+3. Third item
+Unordered List	- First item
+- Second item
+- Third item
+Code	`code`
+Horizontal Rule	---
+Link	[title](https://www.example.com)
+Image	![alt text](image.jpg)
