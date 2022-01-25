@@ -14,6 +14,12 @@ In order to remind myself to keep a growth mindset I should always:
 2. Know that what I'm doing is difficult, I will fail and so have many others. I will remember to pick myself up, dust myself off, ask good questions, and move forward.
 3. There's always something more to learn.  I should always be in a state of discomfort learning something new and unfamiliar. Be comfortable with the uncomfortable.
 
+
+
+![IMG_3315](https://user-images.githubusercontent.com/98236145/150905547-e93f4616-a7e6-4b17-88d8-fc6dc38c0e0f.JPG)
+Tucker as a puppy
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
