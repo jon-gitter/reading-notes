@@ -17,7 +17,7 @@ In order to remind myself to keep a growth mindset I should always:
 
 ![hells canyon](https://user-images.githubusercontent.com/98236145/150905868-7e81bff8-c3f4-42db-a6ce-261c5d3685ae.jpg)
 
-Tucker and I during a trip to Hells Canyon
+Tucker and I during our trip to Hells Canyon
 
 ### Markdown
 
