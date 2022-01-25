@@ -67,3 +67,8 @@ _Why do Software Developers need to be thoughtful about their selection of what 
 - 'text' = use quotes for single items
 - \ = escape character, escapes the special meaning of the next character
 - ls -a = shows all hidden files and directories
+
+* dragonfly
+* dfadf
+
+& dragonfly
