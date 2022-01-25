@@ -68,7 +68,7 @@ _Why do Software Developers need to be thoughtful about their selection of what 
 - \ = escape character, escapes the special meaning of the next character
 - ls -a = shows all hidden files and directories
 
-* dragonfly
-* dfadf
++ test
 
-& dragonfly
+
+
