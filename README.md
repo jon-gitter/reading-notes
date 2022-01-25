@@ -5,7 +5,11 @@
 [Github](https://github.com/jon-gitter) 
 
 
-
+## Links to Labs, Readings, and Assignments:
++ [Lab01b]()
++ [Lab02]()
++ [Read01]()
++ [Read02]()
 
 
 
