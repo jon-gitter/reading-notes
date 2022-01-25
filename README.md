@@ -4,7 +4,7 @@
 
 [Github](https://github.com/jon-gitter) 
 
-[My Hunting YouTube Channel](https://www.youtube.com/channel/UCjQAoCNhoHmJ8evXzsIfIbA)
+[My YouTube Channel](https://www.youtube.com/channel/UCjQAoCNhoHmJ8evXzsIfIbA)
 
 
 ### Markdown
