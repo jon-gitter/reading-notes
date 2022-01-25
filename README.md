@@ -15,7 +15,7 @@ In order to remind myself to keep a growth mindset I should always:
 3. There's always something more to learn.  I should always be in a state of discomfort learning something new and unfamiliar. Be comfortable with the uncomfortable.
 
 
-![hells canyon](https://user-images.githubusercontent.com/98236145/150905868-7e81bff8-c3f4-42db-a6ce-261c5d3685ae.jpg)
+![hellscanyon](https://user-images.githubusercontent.com/98236145/150906144-274a8283-e452-4b7d-8ce9-1b748fb526ce.jpg)
 
 Tucker and I during our trip to Hells Canyon
 
