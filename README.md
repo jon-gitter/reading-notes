@@ -9,6 +9,8 @@
 + [Lab01b](https://jon-gitter.github.io/reading-notes/Lab01b.md)
 + [Read01](https://jon-gitter.github.io/reading-notes/Read01.md)
 + [Read02](https://jon-gitter.github.io/reading-notes/Read02.md)
++ [Lab04](https://jon-gitter.github.io/reading-notes/index.html)
+
 
 
 
