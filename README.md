@@ -4,6 +4,8 @@
 
 [Github](https://github.com/jon-gitter) 
 
+[My Hunting YouTube Channel](https://www.youtube.com/channel/UCjQAoCNhoHmJ8evXzsIfIbA)
+
 
 ### Markdown
 
@@ -33,3 +35,4 @@ In order to remind myself to keep a growth mindset I should always:
 1. Remember my why.
 2. Know that what I'm doing is difficult, I will fail and so have many others. I will remember to pick myself up, dust myself off, ask good questions, and move forward.
 3. There's always something more to learn.  I should always be in a state of discomfort learning something new and unfamiliar. Be comfortable with the uncomfortable.
+
