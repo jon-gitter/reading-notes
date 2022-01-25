@@ -36,6 +36,9 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
++ Bulleted
++ List
+
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
@@ -68,7 +71,7 @@ _Why do Software Developers need to be thoughtful about their selection of what 
 - \ = escape character, escapes the special meaning of the next character
 - ls -a = shows all hidden files and directories
 
-+ test
+
 
 
 
