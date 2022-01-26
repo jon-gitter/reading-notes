@@ -10,6 +10,7 @@
 + [Read01 - Basic Syntax Examples](https://jon-gitter.github.io/reading-notes/Read01.md)
 + [Read02 - Choosing a Text Editor](https://jon-gitter.github.io/reading-notes/Read02.md)
 + [Read03 - Revisions and the Cloud](https://jon-gitter.github.io/reading-notes/Read03.md)
++ [Read04 - Structure Web pages with HTML](https://jon-gitter.github.io/reading-notes/Read04.md)
 + [Lab03 - Revisions and the Cloud](https://jon-gitter.github.io/reading-notes/Lab03.md)
 + [Lab04 - Structure Web Page with HTML](https://jon-gitter.github.io/reading-notes/homepage.html)
 
