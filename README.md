@@ -13,7 +13,7 @@
 + [Read04 - Structure Web pages with HTML](https://jon-gitter.github.io/reading-notes/Read04.md)
 + [Lab03 - Revisions and the Cloud](https://jon-gitter.github.io/reading-notes/Lab03.md)
 + [Lab04 - Structure Web Page with HTML](https://jon-gitter.github.io/reading-notes/homepage.html)
-
++ [Lab05 - Design web pages with CSS](https://jon-gitter.github.io/reading-notes/jonhobby2.html)
 
 
 
