@@ -5,11 +5,12 @@
 [Github](https://github.com/jon-gitter) 
 
 
-## Links to Labs, Readings, and Assignments:
-+ [Lab01b](https://jon-gitter.github.io/reading-notes/Lab01b.md)
-+ [Read01](https://jon-gitter.github.io/reading-notes/Read01.md)
-+ [Read02](https://jon-gitter.github.io/reading-notes/Read02.md)
-+ [Lab04](https://jon-gitter.github.io/reading-notes/homepage.html)
+## Table of Contents:
++ [Lab01b - Growth Mindset](https://jon-gitter.github.io/reading-notes/Lab01b.md)
++ [Read01 - Basic Syntax Examples](https://jon-gitter.github.io/reading-notes/Read01.md)
++ [Read02 - Choosing a Text Editor](https://jon-gitter.github.io/reading-notes/Read02.md)
++ [Lab03 - Revisions and the Cloud](https://jon-gitter.github.io/reading-notes/Lab03.md)
++ [Lab04 - Structure Web Page with HTML](https://jon-gitter.github.io/reading-notes/homepage.html)
 
 
 
