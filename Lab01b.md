@@ -1,3 +1,5 @@
+<!DOCTYPE md>
+
 _Growth mindset is the ability to recognize that no matter how much you know or thing you know you can and should be learning more.  It won't be easy but focusing on your why and endstate shoudld be the reason to keep you motivated when you're struggling with a difficult project._ 
 In order to remind myself to keep a growth mindset I should always:
 1. Remember my why.
