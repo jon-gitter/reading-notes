@@ -3,8 +3,11 @@ header{
     color: #D0DB97;
     font-size: 25px;
     text-align: center;
-    border: 1rem solid;
-    margin: 25px;
+    border: 15px solid;
+    width: 300px;
+    padding: 5px;
+    margin: 20px;
+    display: inline-block;
 }
 
 body {
@@ -17,4 +20,6 @@ body {
 img {
     width: 300px;
     height: 400px;
+    border: 1mm dashed;
+    border-color: black;
 }
