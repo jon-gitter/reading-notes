@@ -11,6 +11,8 @@
 + [Read02 - Choosing a Text Editor](https://jon-gitter.github.io/reading-notes/Read02.md)
 + [Read03 - Revisions and the Cloud](https://jon-gitter.github.io/reading-notes/Read03.md)
 + [Read04 - Structure Web pages with HTML](https://jon-gitter.github.io/reading-notes/Read04.md)
++ [Read05 - Design web pages with CSS](https://jon-gitter.github.io/reading-notes/Read05.md)
++ [Read06 - Dynamic web pages with JavaScript](https://jon-gitter.github.io/reading-notes/Read06.md)
 + [Lab03 - Revisions and the Cloud](https://jon-gitter.github.io/reading-notes/Lab03.md)
 + [Lab04 - Structure Web Page with HTML](https://jon-gitter.github.io/reading-notes/homepage.html)
 + [Lab05 - Design web pages with CSS](https://jon-gitter.github.io/reading-notes/jonhobby2.html)
