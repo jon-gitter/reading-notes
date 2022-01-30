@@ -9,7 +9,7 @@ function huntingQuestion() {
         alert('Bummer :(');
         document.write("<h2> Sorry you don't enjoy hunting partner. Maybe I changed your mind!</h2>");
         //use else to help with errors
-    } else (question != "yes" || "no") {
+    } else if (question != "yes" || "no") {
         alert('Error! Please type in a valid response.')
         prompt("Do you like to hunt?");
     }
@@ -27,7 +27,7 @@ function tuckerImageCountPrompter(whichPrompt) {
         let error = ' Please enter a number between 1 and 3';
         tuckerImageCountPrompter(message + error);
     } // || = or operator either can be true, && is both have to be true 
-    if (tuckerCount == 1 || tuckerCount == 2) {
+    if (tuckerCount == 1) {
         for (let i = 0; i < 1; i++) {
             document.write('<img src="puptuckday.jpg">')
         }
