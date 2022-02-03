@@ -10,9 +10,9 @@
 
 ### Table of Contents for Course Reading Notes:
 
-| Code 102 Reading Notes                                                                           | Code 201 Reading Notes                                                                                                          |
-|:------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------:|
-|[Read01 - Basic Syntax Examples](https://jon-gitter.github.io/reading-notes/Read01.md)            |[201Read01 - Intro HTML and JavaScript](https://jon-gitter.github.io/reading-notes/201Read01.md)                                 |           
+| **Code 102 Reading Notes**                                                                       | **Code 201 Reading Notes**                                                                                                      |
+|:-----------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------:|
+|<font size ="3">[Read01 - Basic Syntax Examples](https://jon-gitter.github.io/reading-notes/Read01.md)</font>|[201Read01 - Intro HTML and JavaScript](https://jon-gitter.github.io/reading-notes/201Read01.md)                                 |           
 |[Read02 - Choosing a Text Editor](https://jon-gitter.github.io/reading-notes/Read02.md)           |[201Read02 - HTML Text, CSS Intro, and Basic JavaScript Instructions](https://jon-gitter.github.io/reading-notes/201Read02.md)   |           
 |[Read03 - Revisions and the Cloud](https://jon-gitter.github.io/reading-notes/Read03.md)          |[201Read03 - HTML Lists, CSS Boxes, JS Control Flow](https://jon-gitter.github.io/reading-notes/201Read03.md)                    |
 |[Read04 - Structure Web pages with HTML](https://jon-gitter.github.io/reading-notes/Read04.md)    |[201Read04 - HTML Links, CSS Layout, JS Functions](https://jon-gitter.github.io/reading-notes/201Read04.md)                      |
