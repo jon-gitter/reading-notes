@@ -8,7 +8,7 @@
 
 
 
-### Table of Contents for Course Reading Notes:
+### Reading Notes Table of Contents:
 
 | **Code 102 Reading Notes** | **Code 201 Reading Notes** |
 |:---:|:---:|
