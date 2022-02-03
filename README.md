@@ -1,11 +1,17 @@
 # Hi! My name is Jon and I'm a student learning how to code.  I'm excited to start my journey in IT and bring more technical expertise to my leadership experience from the military and business world. 
 
+## Below are links to my LinedIn Profile, Github, and Table of Contents for my coursework. 
+
 [LinkedIn Profile](https://www.linkedin.com/in/jon-gitter-a0123485/)
 
 [Github](https://github.com/jon-gitter) 
 
 
-## Table of Contents:
+| test | dlkfjsl | kldjsf;al |
+| :-:  | :-:     | :-:       |
+
+
+## Table of Contents Code 102 Reading Notes:
 + [Lab01b - Growth Mindset](https://jon-gitter.github.io/reading-notes/Lab01b.md)
 + [Read01 - Basic Syntax Examples](https://jon-gitter.github.io/reading-notes/Read01.md)
 + [Read02 - Choosing a Text Editor](https://jon-gitter.github.io/reading-notes/Read02.md)
@@ -17,7 +23,22 @@
 + [Lab04 - Structure Web Page with HTML](https://jon-gitter.github.io/reading-notes/homepage.html)
 + [Lab05 - Design web pages with CSS](https://jon-gitter.github.io/reading-notes/jonhobby2.html)
 
-
+## Table of Contents Code 201 Reading Notes:
++ [Read01]()
++ [Read02]()
++ [Read03]()
++ [Read04]()
++ [Read05]()
++ [Read06]()
++ [Read07]()
++ [Read08]()
++ [Read09]()
++ [Read10]()
++ [Read11]()
++ [Read12]()
++ [Read13]()
++ [Read14]()
++ [Read15]()
 
 
 
