@@ -10,9 +10,9 @@
 
 ### Table of Contents for Course Reading Notes:
 
-|**Code 102 Reading Notes**|**Code 201 Reading Notes**|
+| **Code 102 Reading Notes** | **Code 201 Reading Notes** |
 |:---:|:---:|
-|[<font size ="2">Read01 - Basic Syntax Examples</font>](https://jon-gitter.github.io/reading-notes/Read01.md)|[201Read01 - Intro HTML and JavaScript](https://jon-gitter.github.io/reading-notes/201Read01.md)|           
+| [<font size ="2">Read01 - Basic Syntax Examples</font>](https://jon-gitter.github.io/reading-notes/Read01.md) | [201Read01 - Intro HTML and JavaScript](https://jon-gitter.github.io/reading-notes/201Read01.md) |           
 |[<font size ="2">Read02 - Choosing a Text Editor</font>](https://jon-gitter.github.io/reading-notes/Read02.md)|[201Read02 - HTML Text, CSS Intro, and Basic JavaScript Instructions](https://jon-gitter.github.io/reading-notes/201Read02.md)|           
 |[<font size ="2">Read03 - Revisions and the Cloud</font>](https://jon-gitter.github.io/reading-notes/Read03.md)|[201Read03 - HTML Lists, CSS Boxes, JS Control Flow](https://jon-gitter.github.io/reading-notes/201Read03.md)|
 |[Read04 - Structure Web pages with HTML](https://jon-gitter.github.io/reading-notes/Read04.md)|[201Read04 - HTML Links, CSS Layout, JS Functions](https://jon-gitter.github.io/reading-notes/201Read04.md)|
