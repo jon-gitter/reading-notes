@@ -12,21 +12,21 @@
 
 | **Code 102 Reading Notes** | **Code 201 Reading Notes** |
 |:---:|:---:|
-| [<font size ="2">Read01 - Basic Syntax Examples</font>](https://jon-gitter.github.io/reading-notes/Read01.md) | [201Read01 - Intro HTML and JavaScript](https://jon-gitter.github.io/reading-notes/201Read01.md) |           
-|[<font size ="2">Read02 - Choosing a Text Editor</font>](https://jon-gitter.github.io/reading-notes/Read02.md)|[201Read02 - HTML Text, CSS Intro, and Basic JavaScript Instructions](https://jon-gitter.github.io/reading-notes/201Read02.md)|           
-|[<font size ="2">Read03 - Revisions and the Cloud</font>](https://jon-gitter.github.io/reading-notes/Read03.md)|[201Read03 - HTML Lists, CSS Boxes, JS Control Flow](https://jon-gitter.github.io/reading-notes/201Read03.md)|
-|[Read04 - Structure Web pages with HTML](https://jon-gitter.github.io/reading-notes/Read04.md)|[201Read04 - HTML Links, CSS Layout, JS Functions](https://jon-gitter.github.io/reading-notes/201Read04.md)|
-|[Read05 - Design web pages with CSS](https://jon-gitter.github.io/reading-notes/Read05.md)|[201Read05 - HTML Images; CSS Color & Text](https://jon-gitter.github.io/reading-notes/201Read05.md)|
-|[Read06 - Dynamic web pages with JavaScript](https://jon-gitter.github.io/reading-notes/Read06.md)|[201Read06 - JS Object Literals; The DOM ](https://jon-gitter.github.io/reading-notes/201Read06.md)|
-|[Read07 - Programming with JavaScript](https://jon-gitter.github.io/reading-notes/Read07.md)|[201Read07 - HTML Tables; JS Constructor Functions](https://jon-gitter.github.io/reading-notes/201Read07.md)|
-|[Read08 - Operators and Loops](https://jon-gitter.github.io/reading-notes/Read08.md)|[201Read08 - More CSS Layout](https://jon-gitter.github.io/reading-notes/201Read08.md)|
-                                                                                                   |[201Read09 - Forms and Events](https://jon-gitter.github.io/reading-notes/201Read09.md)|
-                                                                                                   |[201Read10 - JS Debugging](https://jon-gitter.github.io/reading-notes/201Read10.md)|
-                                                                                                   |[201Read11 - Assorted Topics](https://jon-gitter.github.io/reading-notes/201Read11.md)|
-                                                                                                   |[201Read12 - Docs for the HTML <canvas> Element & Chart.js](https://jon-gitter.github.io/reading-notes/201Read12.md)|
-                                                                                                   |[201Read13 - Local Storage](https://jon-gitter.github.io/reading-notes/201Read13.md)|
-                                                                                                   |[201Read14a - CSS Transforms, Transitions, and Animations](https://jon-gitter.github.io/reading-notes/201Read14a.md)|
-                                                                                                   |[201Read14b - What Google Learned About Teams](https://jon-gitter.github.io/reading-notes/201Read14b.md)|
+| [<font size ="2">Read01 - Basic Syntax Examples</font>](https://jon-gitter.github.io/reading-notes/Read01.md) | [<font size ="2">201Read01 - Intro HTML and JavaScript</font>](https://jon-gitter.github.io/reading-notes/201Read01.md) |           
+|[<font size ="2">Read02 - Choosing a Text Editor</font>](https://jon-gitter.github.io/reading-notes/Read02.md)|[<font size ="2">201Read02 - HTML Text, CSS Intro, and Basic JavaScript Instructions</font>](https://jon-gitter.github.io/reading-notes/201Read02.md)|           
+|[<font size ="2">Read03 - Revisions and the Cloud</font>](https://jon-gitter.github.io/reading-notes/Read03.md)|[<font size ="2">201Read03 - HTML Lists, CSS Boxes, JS Control Flow</font>](https://jon-gitter.github.io/reading-notes/201Read03.md)|
+|[<font size ="2">Read04 - Structure Web pages with HTML</font>](https://jon-gitter.github.io/reading-notes/Read04.md)|[<font size ="2">201Read04 - HTML Links, CSS Layout, JS Functions</font>](https://jon-gitter.github.io/reading-notes/201Read04.md)|
+|[<font size ="2">Read05 - Design web pages with CSS</font>](https://jon-gitter.github.io/reading-notes/Read05.md)|[<font size ="2">201Read05 - HTML Images; CSS Color & Text</font>](https://jon-gitter.github.io/reading-notes/201Read05.md)|
+|[<font size ="2">Read06 - Dynamic web pages with JavaScript</font>](https://jon-gitter.github.io/reading-notes/Read06.md)|[<font size ="2">201Read06 - JS Object Literals; The DOM</font>](https://jon-gitter.github.io/reading-notes/201Read06.md)|
+|[<font size ="2">Read07 - Programming with JavaScript</font>](https://jon-gitter.github.io/reading-notes/Read07.md)|[<font size ="2">201Read07 - HTML Tables; JS Constructor Functions</font>](https://jon-gitter.github.io/reading-notes/201Read07.md)|
+|[<font size ="2">Read08 - Operators and Loops</font>](https://jon-gitter.github.io/reading-notes/Read08.md)|[<font size ="2">201Read08 - More CSS Layout</font>](https://jon-gitter.github.io/reading-notes/201Read08.md)|
+                                                                                                   |[<font size ="2">201Read09 - Forms and Events</font>](https://jon-gitter.github.io/reading-notes/201Read09.md)|
+                                                                                                   |[<font size ="2">201Read10 - JS Debugging</font>](https://jon-gitter.github.io/reading-notes/201Read10.md)|
+                                                                                                   |[<font size ="2">201Read11 - Assorted Topics</font>](https://jon-gitter.github.io/reading-notes/201Read11.md)|
+                                                                                                   |[<font size ="2">201Read12 - Docs for the HTML canvas Element & Chart.js</font>](https://jon-gitter.github.io/reading-notes/201Read12.md)|
+                                                                                                   |[<font size ="2">201Read13 - Local Storage</font>](https://jon-gitter.github.io/reading-notes/201Read13.md)|
+                                                                                                   |[<font size ="2">201Read14a - CSS Transforms, Transitions, and Animations</font>](https://jon-gitter.github.io/reading-notes/201Read14a.md)|
+                                                                                                   |[<font size ="2">201Read14b - What Google Learned About Teams</font>](https://jon-gitter.github.io/reading-notes/201Read14b.md)|
 
 
 
