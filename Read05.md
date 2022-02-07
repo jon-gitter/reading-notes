@@ -1,3 +1,5 @@
+[Table of Contents](https://github.com/jon-gitter/reading-notes/blob/main/README.md)
+
 CSS - stands for cascading style sheets. Styling language for HTML. Has its own architecture (language)
 
 use <link href="/blahblahblah.css" rel="stylesheet">
@@ -39,3 +41,5 @@ block level elements - take the entire block and changes it
 coolers.com is a color palette website useful for designing your website
 
 use https://developer.mozilla.org/en-US/docs/Web/CSS/Reference as a great resource for CSS refrences
+
+[Table of Contents](https://github.com/jon-gitter/reading-notes/blob/main/README.md)

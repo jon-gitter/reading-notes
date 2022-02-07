@@ -1,3 +1,5 @@
+[Table of Contents](https://github.com/jon-gitter/reading-notes/blob/main/README.md)
+
 JavaScript is logic, and is composed of actions. It's a lightweight programming language to add dynamics to your app and is most well known for it's use in websites.
 
 We use functions to do something
@@ -70,3 +72,5 @@ else if (tod >= 0) {
 else {
     alert('Welcome')
 }
+
+[Table of Contents](https://github.com/jon-gitter/reading-notes/blob/main/README.md)

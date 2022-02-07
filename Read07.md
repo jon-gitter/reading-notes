@@ -1,3 +1,5 @@
+[Table of Contents](https://github.com/jon-gitter/reading-notes/blob/main/README.md)
+
 refrence for notes is: https://developer.mozilla.org/en-US/docs/Glossary/Control_flow
 https://www.w3schools.com/js/js_functions.asp
 https://www.w3schools.com/js/js_operators.asp
@@ -56,3 +58,5 @@ Logical Operators
 Type Operators
 typeof	Returns the type of a variable
 instanceof	Returns true if an object is an instance of an object type
+
+[Table of Contents](https://github.com/jon-gitter/reading-notes/blob/main/README.md)

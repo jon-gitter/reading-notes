@@ -1,3 +1,5 @@
+[Table of Contents](https://github.com/jon-gitter/reading-notes/blob/main/README.md)
+
 Version Control - a system that allows you to revisit various versions of a file or set of files by recording changes. Through version control, one can revert a file or project to a previous version, track modifications and modifying individuals, and compare changes. By utilizing a Version Control System (VCS), mistakes with files can easily be rectified.
 
 First was local VCS then Centralized VCS, difference is between single (local) and mutiple (centralized) file collaboration. Disributed VCS made it easier than CVCS b/c it got rid of the vulnerability of the server as the single point of failure. DVCS allows clients to create mirrored repositories, multiple backups make it easier to save data without it being lost.
@@ -21,3 +23,5 @@ Steps to make sure all changes made on VS Code will get pushed to GitHub:
 2) git add filename.md
 3) git commit -m "info goes here"
 4) git push
+
+[Table of Contents](https://github.com/jon-gitter/reading-notes/blob/main/README.md)

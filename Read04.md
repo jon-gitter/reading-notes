@@ -1,3 +1,5 @@
+[Table of Contents](https://github.com/jon-gitter/reading-notes/blob/main/README.md)
+
 Wireframe - schematic of what you'd like your site to look like. Can be done digitially or with pen and paper. Good way to do a macro planning for what your site will look like.
 
 Wireframe resources = Invision & Miro
@@ -51,3 +53,5 @@ Semantics - refers to the meaning of a piece of code — for example "what effec
 Ex: the <h1> element because it gives the text it wraps around the role of a top level heading on your page.
 
 Other sematinc elements: <article> <aside> <details> <figcaption> <figure> <footer> <header> <main> <mark> <nav> <section> <summary> <time>
+
+[Table of Contents](https://github.com/jon-gitter/reading-notes/blob/main/README.md)
