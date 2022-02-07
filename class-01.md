@@ -107,7 +107,6 @@
             - properties: characteristics of an object, each property has a name and value (name does not equal specific name) 
             - events: a computer's way of raising its hand to say "hey this just happened!". specific events can trigger specific code. example would be accelerate event on a car increases the speed of the vehicle
             - methods: represent things people need to do with objects, they can retrieve or update the values of an object's properties. typically represent how people (or other things) interact with an object in the real world.
-                - 
                 ```
                         Document         .           write         ('good afternoon!');
                         |_______|       |_|         |______________|__________________|___|
