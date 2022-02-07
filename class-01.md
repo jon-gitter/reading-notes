@@ -58,9 +58,10 @@
 		        <p>Please view the source of this page to examine the meta data.</p>
             </body></html>
             ```
-
+    - escape character/code: some characters are reserved by HTML (&, <, >, etc), use escape characters/code to have them appear in HTML. Ex: use `&lt;` for &. full list is on page 194. check the page in your browser when using these b/c some fonts don't support all characters, might need to specify different font in CSS for it to work. 
 
 - _HTML Chapter 17: HTML5 Layout (pp.428-451)_
+    - 
 
 - _HTML Chapter 18: Process & Design (pp.452-475)_
 
