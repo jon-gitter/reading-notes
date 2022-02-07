@@ -1,5 +1,5 @@
 ---
-layout:default
+layout: default
 ---
 
 ## Terminal Cheat Sheet
