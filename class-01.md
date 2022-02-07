@@ -1,3 +1,5 @@
+[Table of Contents](https://github.com/jon-gitter/reading-notes)
+
 ## Read 01 Notes
 
 
@@ -110,4 +112,4 @@
     - use the `<script>` element to tell the browser to use a specific javascript file
         - ex: `<script src="js/add-content.js"></script>`
 
-    
+[Table of Contents](https://github.com/jon-gitter/reading-notes)  
