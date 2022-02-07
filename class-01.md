@@ -40,9 +40,9 @@
                  src="https://www.">`
                 `</iframe>` 
     - `<meta>` element: lives inside the `<head>` element and contains information about that web page. not visible to users but tells search engines about your page, who created it, and whether or not it's time sensitive (can be set to expire). empty element so it does not have a closing tag, uses attributes to carry the information. name and content attribues are most popular and tend to be used together, these attributes specify properties of the entire page. the value of the name attribute is the propery you are setting, adn the value of the content attribute is teh value that you want to give to this property. The value of the name attribute can be anything you want it to be, there are some defined values that are commonly used: description (contains description of page, commonly used by search engines to understand what the page is about), keywords (contains a list of comma separated words that a user might search on to find the page), robots (inidcates whether a search engine should add this page to their search results or not, a value of noindex can be used if this page should not be added, a value of nofollow can be used if seach engines should add this page int heir results but not any pages that it links to). also uses http-equiv and content attribute in pairs some are: author (tells whot the website author is), pragma (prevents the browser from caching the page, aka storing it locally to save time downloadig it on subsequent visits), expires (used to indicate when the page should expire and no longer be cached, date format is specific)
-        - `<html><head>
-		<title>Information About Your Pages</title>
-		<meta name="description" content="An Essay on Installation Art">
+        - `<html><head>`
+		`<title>Information About Your Pages</title>`
+		`<meta name="description" content="An Essay on Installation Art">`
 		`<meta name="keywords" content="installation, art, opinion">`
 		`<meta name="robots" content="nofollow">`
 		`<meta http-equiv="author" content="Jon Duckett">`
@@ -51,7 +51,7 @@
 	         `</head>`
 	        `<body>`
 		     `<p>Please view the source of this page to examine the meta data.</p>`
-        </body></html>`
+        `</body></html>`
 
 - _HTML Chapter 17: HTML5 Layout (pp.428-451)_
 
