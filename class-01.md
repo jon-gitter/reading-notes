@@ -112,7 +112,7 @@
                         |_______|       |_|         |______________|__________________|___|
                             |            |                       |            |
                             V            V                       |            V
-                        object    member operator                |        parameters
+                         object    member operator                |        parameters
                                                                  V
                                                                Method
                 ```
