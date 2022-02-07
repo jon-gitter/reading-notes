@@ -61,7 +61,24 @@
     - escape character/code: some characters are reserved by HTML (&, <, >, etc), use escape characters/code to have them appear in HTML. Ex: use `&lt;` for &. full list is on page 194. check the page in your browser when using these b/c some fonts don't support all characters, might need to specify different font in CSS for it to work. 
 
 - _HTML Chapter 17: HTML5 Layout (pp.428-451)_
-    - 
+    - `<div>` was traditionally used together related elements on teh page but with HTML5 new sets of elements take over that feature and are specific to the page itself (see page 431 and 432)
+    - `<header>` and `<footer>` elements: appears on top or bottom of every page on the website. each individual `<article>` and `<section>` element can also have its own `<header>` and `<footer>` elements to hold the header and footer information for that section within the page
+    - `<nav>` element: used to contain the major navigational blocks on the site such as the primary site navigation
+    - `<article>` element: acts as a container for any section of a page taht could stand alone and potentially be syndicated. could be an individual article or blog entry, a comment or forum post, or any other independent piece of content
+    - `<aside>` element: two purposes whether inside an `<article>` element or not. Inside the element = should contain informaiton that is related ot the articel but not essential to its overaally meaning. outside the element = it acts as a container for content that is related to the entire page. 
+    - `<section>` element: groups related content together adn typically each section would have its own heading
+    - `<hgroup>` element: used to group together a set of one or more `<h1>` through `<h6>` elements so that they are treated as one single heading
+    - `<figure>` element: used to contain any content that is refrenced from the main flow of an article (not just images). `<figure>` element should also contain a `<figcaption>` element which provides a text description for the content of the `<figure>` element. 
+        - ex: 
+        ```
+        <figure>
+            <img src="images/bok-choi.jpg" alt="Bok Choi" />
+            <figcaption>Bok Choi<figcaption>
+            </figure>
+        ```
+    - when there is no suitable element to group a set of elements use `<div>`
+    - can use a `<a>` element around a block level element that contains child elements, allows you to turn an entire block into a link.
+    - see page 442 for how to make sure new HTML elements can work with old browsers. need to contain a link to the HTML5 shiv JavaScript (hosted on google servers) inside a conditional comment to be told which elements are block level elements.
 
 - _HTML Chapter 18: Process & Design (pp.452-475)_
 
