@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Terminal Cheat Sheet
 
 - pwd = print working directory, tells you what your current working directory is
