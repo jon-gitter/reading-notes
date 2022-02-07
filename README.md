@@ -1,6 +1,6 @@
 # Hi! My name is Jon and I'm a student learning how to code.  I'm excited to start my journey in IT and bring more technical expertise to my leadership experience from the military and business world. 
 
-### Below are links to my LinkedIn Profile, Github, and Table of Contents for my coursework. 
+### Below are links to my LinkedIn Profile, Github, and a Table of Contents for my coursework. 
 
 [LinkedIn Profile](https://www.linkedin.com/in/jon-gitter-a0123485/)
 
@@ -12,7 +12,7 @@
 
 | **Code 102 Reading Notes** | **Code 201 Reading Notes** |
 |:---:|:---:|
-| [<font size ="2">Read01 - Basic Syntax Examples</font>](https://jon-gitter.github.io/reading-notes/Read01.md) | [<font size ="2">Read01 - Intro HTML and JavaScript</font>](https://jon-gitter.github.io/reading-notes/class-01.md) |           
+| [<font size ="2">Read01 - Basic Syntax Examples</font>](https://jon-gitter.github.io/reading-notes/Read01.md) | [<font size ="2">Read01 - Intro HTML and JavaScript</font>](https://github.com/jon-gitter/reading-notes/blob/main/class-01.md) |           
 |[<font size ="2">Read02 - Choosing a Text Editor</font>](https://jon-gitter.github.io/reading-notes/Read02.md)|[<font size ="2">Read02 - HTML Text, CSS Intro, and Basic JavaScript Instructions</font>](https://jon-gitter.github.io/reading-notes/class-02.md)|           
 |[<font size ="2">Read03 - Revisions and the Cloud</font>](https://jon-gitter.github.io/reading-notes/Read03.md)|[<font size ="2">Read03 - HTML Lists, CSS Boxes, JS Control Flow</font>](https://jon-gitter.github.io/reading-notes/class-03.md)|
 |[<font size ="2">Read04 - Structure Web pages with HTML</font>](https://jon-gitter.github.io/reading-notes/Read04.md)|[<font size ="2">Read04 - HTML Links, CSS Layout, JS Functions</font>](https://jon-gitter.github.io/reading-notes/class-04.md)|
@@ -40,7 +40,6 @@
 ## Table of Contents Code 201 Labs:
 + [201Lab01b](https://jon-gitter.github.io/reading-notes/201Lab01b.md)
 
-[test2](root/class-01.md)
 
 
 
