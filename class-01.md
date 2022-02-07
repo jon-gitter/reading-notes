@@ -1,8 +1,4 @@
----
-theme: jekyll-theme-modernist
----
 ## Read 01 Notes
----
 
 
 ### Duckett HTML & CSS Book
@@ -15,7 +11,9 @@ theme: jekyll-theme-modernist
 
 
 -**HTML Chapter 1: Structure (pp.12-39)**
-    -
+    - HTML elements: angled elements aka brackets (<>), made up of an opening and closing tag and any content that lies between them. Each HTML element tells the borser something about the information that sits between its opening and closing tags. HTML uses elements to descibe the structure of pages.
+    - HTML attributes: provide additional information about the contents of an element, they appear on teh opening tag of the element and aremade up of two parts: a **name** and **value** separated by an equals sign. Ex =  '<p lang="en-us">Paragraph in English</p>'  
+    - 
 
 -**HTML Chapter 8: Extra Markup (p.176-199)**
 
