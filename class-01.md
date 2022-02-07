@@ -2,7 +2,7 @@
 
 
 ### Duckett HTML & CSS Book
--<u>Introduction (pp.2-11)</u>I
+-<u>Introduction (pp.2-11)</u>
     - SEO: search engine optimization
     - important to remember that not all users have the latest browser updates, might not be able to use all features of your website
     - web servers host the website, constantly connected to the internet, send web page data to those that request it, some large companies host their own servers while others use a web hosing company to host sites.
