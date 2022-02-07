@@ -1,3 +1,6 @@
+---
+theme: jekyll-theme-modernist
+---
 ## Read 01 Notes
 ---
 
@@ -11,18 +14,18 @@
     - how the web works: browser first tries to connect to a Domain Name System (DNS) server. DNS servers tell your browser how to find the website.  
 
 
--**HTML Chapter 1: “Structure” (pp.12-39)**
+-**HTML Chapter 1: Structure (pp.12-39)**
     -
 
--**HTML Chapter 8: “Extra Markup” (p.176-199)**
+-**HTML Chapter 8: Extra Markup (p.176-199)**
 
--**HTML Chapter 17: “HTML5 Layout” (pp.428-451)**
+-**HTML Chapter 17: HTML5 Layout (pp.428-451)**
 
--**HTML Chapter 18: “Process & Design” (pp.452-475)**
+-**HTML Chapter 18: Process & Design (pp.452-475)**
 
 
 
 ### Duckett JS Book
 -**Introduction**
 
--**JS Chapter 1: “The ABC of Programming” (pp.11-52)**
+-**JS Chapter 1: The ABC of Programming (pp.11-52)**
