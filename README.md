@@ -40,7 +40,7 @@
 ## Table of Contents Code 201 Labs:
 + [201Lab01b](https://jon-gitter.github.io/reading-notes/201Lab01b.md)
 
-[test](docs/class-01.md)
+[test](root/class-01.md)
 
 
 
