@@ -81,10 +81,33 @@
     - see page 442 for how to make sure new HTML elements can work with old browsers. need to contain a link to the HTML5 shiv JavaScript (hosted on google servers) inside a conditional comment to be told which elements are block level elements.
 
 - _HTML Chapter 18: Process & Design (pp.452-475)_
-
+    - every website should be designed for the target audience not just me or the site owner.
+    - look for **motivations** and **goals** for why people are coming to your site. 
+    - site map: diagram of the pages that will be used to structure the site
+    - card sorting: used to decide what information should go on each page, involves placing each piece of information that a visitor might need to know on a separate piece of paper and then organizing the related information into groups
+    - wireframes: simple sketch of the key information that needs to go on each page of a site, shows the hierarchy of the information and how much space it might require. 
+        - online wireframe tools = gomockingbird.com and lovelycharts.com
+    - use contrast, size, color, style to create visual hierarchy on the page. items with higher contrast are recognized and processed first. 
+    - good site navigation follows these three principles: concise, clear, selective, context, interactive, consistent
 
 
 ### Duckett JS Book
 - _Introduction_
+    - Javascript makes pages more interactive by accessing content, modifying content, programing rules, reacting to events
 
 - _JS Chapter 1: The ABC of Programming (pp.11-52)_
+    - scripts: series of instrutions that a computer can follow to achieve a goal
+        - to write a script you need to first state your goal and then list the tasks that need to be completed in order to achieve it
+    - use flowcharts to help with scripts and to work out how all the tasks fit together
+    - objects: each physical thing in the world can be represented as an object
+        - instances: represent the totally times an object is present, ex: two instances of cars
+        - each object can have its own:
+            - properties: characteristics of an object, each property has a name and value (name does not equal specific name) 
+            - events: a computer's way of raising its hand to say "hey this just happened!". specific events can trigger specific code. example would be accelerate event on a car increases the speed of the vehicle
+            - methods: represent things people need to do with objects, they can retrieve or update the values of an object's properties. typically represent how people (or other things) interact with an object in the real world.
+    - using the docuemnt object you can access and change what content users see on the page and respond to how they interact with it. 
+    - HTML is the content layer, CSS is the presentation layer, javascript is the behavior layer
+    - use the `<script>` element to tell the browser to use a specific javascript file
+        - ex: `<script src="js/add-content.js"></script>`
+
+    
