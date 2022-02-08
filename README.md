@@ -38,7 +38,7 @@
 
 
 ## Table of Contents Code 201 Labs:
-+ [Lab01b - Getting Up and Running!](https://jon-gitter.github.io/reading-notes/Code201/201Lab01b.md)
++ [Lab01b - Getting Up and Running!](https://jon-gitter.github.io/reading-notes/Code201/Lab01b.md)
 
 
 
