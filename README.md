@@ -12,7 +12,7 @@
 
 | **Code 102 Reading Notes** | **Code 201 Reading Notes** |
 |:---:|:---:|
-| [<font size ="2">Read01 - Basic Syntax Examples</font>](https://github.com/jon-gitter/reading-notes/blob/main/Code102/Read01.md) | [<font size ="2">Read01 - Intro HTML and JavaScript</font>](https://github.com/jon-gitter/reading-notes/blob/main/Code201/class-01.md) |           
+| [<font size ="2">Read01 - Basic Syntax Examples</font>](/Code102/Read01.md) | [<font size ="2">Read01 - Intro HTML and JavaScript</font>](https://github.com/jon-gitter/reading-notes/blob/main/Code201/class-01.md) |           
 |[<font size ="2">Read02 - Choosing a Text Editor</font>](https://github.com/jon-gitter/reading-notes/blob/main/Code102/Read02.md)|[<font size ="2">Read02 - HTML Text, CSS Intro, and Basic JavaScript Instructions</font>](https://github.com/jon-gitter/reading-notes/blob/main/Code201/class-02.md)|           
 |[<font size ="2">Read03 - Revisions and the Cloud</font>](https://github.com/jon-gitter/reading-notes/blob/main/Code102/Read03.md)|[<font size ="2">Read03 - HTML Lists, CSS Boxes, JS Control Flow</font>](https://github.com/jon-gitter/reading-notes/blob/main/Code201/class-03.md)|
 |[<font size ="2">Read04 - Structure Web pages with HTML</font>](https://github.com/jon-gitter/reading-notes/blob/main/Code102/Read04.md)|[<font size ="2">Read04 - HTML Links, CSS Layout, JS Functions</font>](https://github.com/jon-gitter/reading-notes/blob/main/Code201/class-04.md)|
