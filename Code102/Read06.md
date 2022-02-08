@@ -1,4 +1,4 @@
-[Table of Contents](https://github.com/jon-gitter/reading-notes/blob/main/README.md)
+[Table of Contents](https://jon-gitter.github.io/reading-notes/)
 
 JavaScript is logic, and is composed of actions. It's a lightweight programming language to add dynamics to your app and is most well known for it's use in websites.
 
@@ -73,4 +73,4 @@ else {
     alert('Welcome')
 }
 
-[Table of Contents](https://github.com/jon-gitter/reading-notes/blob/main/README.md)
+[Table of Contents](https://jon-gitter.github.io/reading-notes/)

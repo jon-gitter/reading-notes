@@ -1,4 +1,4 @@
-[Table of Contents](https://github.com/jon-gitter/reading-notes/blob/main/README.md)
+[Table of Contents](https://jon-gitter.github.io/reading-notes/)
 
 CSS - stands for cascading style sheets. Styling language for HTML. Has its own architecture (language)
 
@@ -42,4 +42,4 @@ coolers.com is a color palette website useful for designing your website
 
 use https://developer.mozilla.org/en-US/docs/Web/CSS/Reference as a great resource for CSS refrences
 
-[Table of Contents](https://github.com/jon-gitter/reading-notes/blob/main/README.md)
+[Table of Contents](https://jon-gitter.github.io/reading-notes/)

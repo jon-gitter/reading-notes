@@ -1,4 +1,4 @@
-[Table of Contents](https://github.com/jon-gitter/reading-notes/blob/main/README.md)
+[Table of Contents](https://jon-gitter.github.io/reading-notes/)
 
 Wireframe - schematic of what you'd like your site to look like. Can be done digitially or with pen and paper. Good way to do a macro planning for what your site will look like.
 
@@ -54,4 +54,4 @@ Ex: the <h1> element because it gives the text it wraps around the role of a top
 
 Other sematinc elements: <article> <aside> <details> <figcaption> <figure> <footer> <header> <main> <mark> <nav> <section> <summary> <time>
 
-[Table of Contents](https://github.com/jon-gitter/reading-notes/blob/main/README.md)
+[Table of Contents](https://jon-gitter.github.io/reading-notes/)

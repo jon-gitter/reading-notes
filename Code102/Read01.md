@@ -1,4 +1,4 @@
-[Table of Contents](https://github.com/jon-gitter/reading-notes/blob/main/README.md)
+[Table of Contents](https://jon-gitter.github.io/reading-notes/)
 
 ## Terminal Cheat Sheet
 
@@ -20,4 +20,4 @@
 - \ = escape character, escapes the special meaning of the next character
 - ls -a = shows all hidden files and directories
 
-[Table of Contents](https://github.com/jon-gitter/reading-notes/blob/main/README.md)
+[Table of Contents](https://jon-gitter.github.io/reading-notes/)

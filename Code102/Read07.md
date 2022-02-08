@@ -1,4 +1,4 @@
-[Table of Contents](https://github.com/jon-gitter/reading-notes/blob/main/README.md)
+[Table of Contents](https://jon-gitter.github.io/reading-notes/)
 
 refrence for notes is: https://developer.mozilla.org/en-US/docs/Glossary/Control_flow
 https://www.w3schools.com/js/js_functions.asp
@@ -59,4 +59,4 @@ Type Operators
 typeof	Returns the type of a variable
 instanceof	Returns true if an object is an instance of an object type
 
-[Table of Contents](https://github.com/jon-gitter/reading-notes/blob/main/README.md)
+[Table of Contents](https://jon-gitter.github.io/reading-notes/)

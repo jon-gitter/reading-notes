@@ -62,3 +62,19 @@
   ```
   - properties indicate the aspets of the element you want to change
   - values specify the settings you want to use for the chosen properties 
+  - **can use the `<link>` element inside `<head>` element to but a link to the .css file  pg235, ensure to use type and rel**
+  - can also use the `<style>` element to make CSS internal to HTML, not recommended, usually sits inside the `<head>` element
+  - last rule: if the two selectors are identical the latter of the two will take precedence
+  - specificity: if one selector is more specific than the other that rule will take precedence, you can add !impoortant after any property value to to indicate it should be considered more important than other rules
+  - inheritance: if you specify the font-family or color properties on the `<body>` element they will apply to most child elements, you can force inheritance by putting inherit as the value after the property
+
+
+### Duckett JS Book
+- _Chapter 2: Basic JavaScript Instructions (pp.53-84)_
+  - 
+
+
+
+
+
+[Table of Contents](https://jon-gitter.github.io/reading-notes/)

@@ -1,4 +1,4 @@
-[Table of Contents](https://github.com/jon-gitter/reading-notes/blob/main/README.md)
+[Table of Contents](https://jon-gitter.github.io/reading-notes/)
 
 **Different Classifications of Text Editors**
 - Text Editors
@@ -9,4 +9,4 @@ _Why do Software Developers need to be thoughtful about their selection of what 
 If you go with too basic of an editor you might be missing out on ways to easily collaborate with teammates and not properly identify errors that is supported on an IDE.  
 The difference would be using a nailgun (IDEs) versus a hammer and nails (text editor). 
 
-[Table of Contents](https://github.com/jon-gitter/reading-notes/blob/main/README.md)
+[Table of Contents](https://jon-gitter.github.io/reading-notes/)
