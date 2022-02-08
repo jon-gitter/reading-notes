@@ -1,4 +1,4 @@
-[Table of Contents](README.md)
+[Table of Contents](reading-notes)
 
 ## Read 01 Notes
 
