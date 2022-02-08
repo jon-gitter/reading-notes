@@ -36,6 +36,8 @@
   - `<ins>`: semantic element, shows content inserted into the document, displayed as underlined text
   - `<del>`: semantic element, shows text that has been deleted from document, displayed as strikethrough
   - `<s>`: semantic element, indicates something that is no longer accurate or relevant but shouldn't be deleted, dispalyed as strikethrough
+  - inline styling will take precedence over CSS stylesheet on HTMl
+  
 
 
 - _Chapter 10: Introducing CSS (pp. 226-245)_
