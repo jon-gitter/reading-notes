@@ -112,9 +112,9 @@
         - Ex: if{} else{} 
   - comparison operator examples are on pg 150 and 151. Some are ==, !=, >, etc.
   - in any condition there is usually one operator and two operands, operands can get more complex
-    - Ex: (`score >= pass)` operands are score and pass, >= is the comparison operator
+    - Ex: `(score >= pass)` operands are score and pass, >= is the comparison operator
   - logical operators allow you to compare the results of more than one comparison operator, see pg 156 and 157 for examples, &&, ||, etc
-    - Ex: `((5 < 2) && (2 >= 3)), (5 < 2) is the first expression, (2 >= 3) is the second expression, && is the logical operator
+    - Ex: `((5 < 2) && (2 >= 3))`, `(5 < 2)` is the first expression, `(2 >= 3)` is the second expression, && is the logical operator
   - can use if statements in conjunction with conditions and comparison operators and variables
   - switch statements: starts with a variable called the switch value, each case indicates a possible value for this variable and the code that should run if the variable matches that value
     - ex: pg 164
