@@ -1,4 +1,4 @@
-[Table of Contents](reading-notes)
+[Table of Contents](https://jon-gitter.github.io/reading-notes/)
 
 ## Read 01 Notes
 
@@ -60,4 +60,5 @@
         v         value
     property
   ```
-  - 
+  - properties indicate the aspets of the element you want to change
+  - values specify the settings you want to use for the chosen properties 
