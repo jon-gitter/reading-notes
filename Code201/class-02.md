@@ -1,4 +1,4 @@
-# [Table of Contents](https://github.com/jon-gitter/reading-notes/blob/main/README.md)
+[Table of Contents](README.md)
 
 ## Read 01 Notes
 
