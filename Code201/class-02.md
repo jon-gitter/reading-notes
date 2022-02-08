@@ -121,7 +121,4 @@
   - if...else vs switch: if...else is specific and does not have a default option versus switch which does
 
 
-
-
-
 [Table of Contents](https://jon-gitter.github.io/reading-notes/)
