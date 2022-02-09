@@ -72,7 +72,27 @@
   - type coercion: javascript's ability to convert data types behind the scenes to complete an operation
     - ex: string could be converted to a number ('1' >  0) this statement would evaluate as true, also important to use and know the difference between `===` and `==`
     - becuase of this JS uses weak typing vs strong typing
-  -    
+  - falsy values: treated as if they are false, can also be treated as the number 0
+  - truthy values: treated as if they are true, can also be treated as the number 1
+  
+  - for loop - repeats until a specified condition evaluates to false.
+    ```
+    Ex: for(let i = 0; i < 10; i++){
+
+    }
+    This loop will keep executing until it reaches the limit you set (10) and only increment by 1 if not true.
+    ```
+
+  - while statement: executes its statement as long as a specified condition evaluates to true
+  - while loop: if the condition becomes flase the statement within the loop stops executing and control passed to the statement following the loop
+    ```
+    Ex: let x = 8;
+        let y = 0;
+        while (y < x) {
+            y++;
+        }
+    ```
+    - The example will keep running until it's true, i.e. it will execute until equal to 8.   
 
 
 [Table of Contents](https://jon-gitter.github.io/reading-notes/)
