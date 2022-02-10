@@ -1,6 +1,6 @@
 [Table of Contents](https://jon-gitter.github.io/reading-notes/)
 
-## Read 01 Notes
+## Read 02 Notes
 
 ### Duckett HTML & CSS Book
 - _Chapter 2: Text (pp. 40-61)_

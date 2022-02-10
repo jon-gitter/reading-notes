@@ -1,6 +1,6 @@
 [Table of Contents](https://jon-gitter.github.io/reading-notes/)
 
-## Read 01 Notes
+## Read 03 Notes
 
 ### Duckett HTML & CSS Book
 - _Chapter 3: Lists (pp.62-73)_
