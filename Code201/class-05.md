@@ -49,14 +49,16 @@
   - :hover - used to change appearance when user hovers over with mouse
   - :active - applied when element is activated by a user, ex is when a button has been pressed or link clicked
   - :focus - applied when an element has focus, any element you interact with such as a link can have focus
-  
+
 
 
 
 
 ### Blog Post https://blog.imagekit.io/jpeg-vs-png-vs-gif-which-image-format-to-use-and-when-c8913ae3e01d
 - JPEG vs PNG vs GIF
-  - 
+  - JPEG = format for all images that contain a natural scene or photograph where color is smooth
+  - PNG = for any image that needs transparency or for images with text & objects with sharp contrast edges like logos
+  - GIF = for images that contain animations
 
 
 [Table of Contents](https://jon-gitter.github.io/reading-notes/)
