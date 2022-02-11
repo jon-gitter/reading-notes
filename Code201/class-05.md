@@ -1,6 +1,6 @@
 [Table of Contents](https://jon-gitter.github.io/reading-notes/)
 
-## Read 04 Notes
+## Read 05 Notes
 
 ### Duckett HTML & CSS Book
 - _Chapter 4: Images (pp.94-125)_
