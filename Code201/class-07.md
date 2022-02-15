@@ -3,31 +3,45 @@
 ## Read 03 Notes
 
 ### Duckett HTML & CSS Book
-- _CSS Layout (https://web.dev/learn/css/layout/)_
-  - display property determines if the box it is applied to acts as inline or block. 
-  - There are two main layout mechanisms that create layout rules for multiple elements, flexbox and grid.
-  - Flexbox is a layout mechanism for one-dimensional layouts. Layout across a single axis, either horizontally or vertically.
-  - Grid is similar in a lot of ways to flexbox, but it is designed to control multi-axis layouts instead of single-axis layouts (vertical or horizontal space).
-  - If not using grid or flexbox, your elements display in normal flow. There are a number of layout methods that you can use to adjust the behavior and position of items when in normal flow.
-  - multicolumn layout
-    ```
-    .countries {
-	column-count: 2;
-	column-gap: 1em;
-}
+- _Chapter 6: Tables (pp.126-145)_
+  - basic table  structure
   ```
+    <table>
+      <tr>
+        <td> stuff goes here </td>
+        <td> stuff goes here </td>
+      </tr>
+    </table>
+  ```
+  - `<th>` table heading element
+  - colspan attribute = spanning columns
+  - rowspan = spanning rows
+  - `<thread>` the headings of the table should sit inside this element
+  - `<tbody>` body should sit inside this element
+  - `<tfoot>` footer belongs in here
   - 
 
-- _Chapter 15: Layout (pp.358-404)_
-  - block level elements start on new line
-  - inline elements flow in between surrounding text
-  - if one block-level element sits inside another bloc-level element than the outer box is knows as the containing or parent element
-  - utilize pf 363 and 364 for controlling positioning of elements
-  - use pg 365-376 to get better examples of controlling layouts\
-  - must be cognizant of other users screens
-    - usually create web pages around 960-1000 pixels
-  - can use fixed or liquid layouts for websites (helps with different screens etc)
-    - pros and cons on page 382
-  - 960 pixel layout on pg 389 and 390
+
+  ### Duckett JS Book
+- _Chapter 3: Functions, Methods, Objects (pp.106-144)_
+  - object constructors use a function as a template for creating objects
+    - first create the template with the object's properties and methods
+  - can use constructor funcitons to to create new objects you make based on an earlier function
+  - create the object, then add properties and methods
+  - _this_ is commonly used inside functions and objects. where the function is declared alters what _this_ means. it always referes to one object, usually the object in which the function operates
+  - in JS data is represented using name/value pairs, organize data using an array or object to group a set of related values. in arrrays and objects the name is also known as a key
+  - if you want to access items via a property name or key, use an object (each key name must be unique), if the order of the items is important use an array
+  - six data types
+    - string
+    - number
+    - boolean
+    - undefined
+    - null
+  - complex data type:
+    - object
+  - when you have a vale that is a number you can use the methods and properties of the number object on it
+  - use math objects Math.round(), Math.ceil() (page 134) for mathematical constants and functions
+  - random number example on pg 135
+  - 
 
 [Table of Contents](https://jon-gitter.github.io/reading-notes/)
