@@ -1,6 +1,6 @@
 [Table of Contents](https://jon-gitter.github.io/reading-notes/)
 
-## Read 09 Notes
+## Read 10 Notes
 
 ### Duckett JavaScript Book
 - _Chapter 10: Error Handling & Debugging (pp447-_
