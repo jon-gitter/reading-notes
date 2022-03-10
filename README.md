@@ -1,4 +1,6 @@
-# Hi! My name is Jon and I'm a student learning how to code.  I'm excited to start my journey in IT and bring more technical expertise to my leadership experience from the military and business world. 
+# Reading Notes
+
+## Hi! My name is Jon and I'm a student learning how to code.  I'm excited to start my journey in IT and bring more technical expertise to my leadership experience from the military and business world. This README is designed to house my reading notes from each of the classes I took while attending Code Fellows.
 
 ### Below are links to my LinkedIn Profile, Github, and a Table of Contents for my coursework. 
 
@@ -10,9 +12,9 @@
 
 ### Reading Notes Table of Contents:
 
-| **Code 102 Reading Notes** | **Code 201 Reading Notes** |
+| **Code 102 - Intro to Software Development** | **Code 201 - Foundations of Software Developemnt** | **Code 301 - Intermediate Software Development** |
 |:---:|:---:|
-| [<font size ="2">Read01 - Basic Syntax Examples</font>](/Code102/Read01.md) | [<font size ="2">Read01 - Intro HTML and JavaScript</font>](/Code201/class-01.md) |           
+| [<font size ="2">Read01 - Basic Syntax Examples</font>](/Code102/Read01.md) | [<font size ="2">Read01 - Intro HTML and JavaScript</font>](/Code201/class-01.md) | [<font size ="2"></font>](/Code301/class-01.md) |            
 |[<font size ="2">Read02 - Choosing a Text Editor</font>](/Code102/Read02.md)|[<font size ="2">Read02 - HTML Text, CSS Intro, and Basic JavaScript Instructions</font>](/Code201/class-02.md)|           
 |[<font size ="2">Read03 - Revisions and the Cloud</font>](/Code102/Read03.md)|[<font size ="2">Read03 - HTML Lists, CSS Boxes, JS Control Flow</font>](/Code201/class-03.md)|
 |[<font size ="2">Read04 - Structure Web pages with HTML</font>](/Code102/Read04.md)|[<font size ="2">Read04 - HTML Links, CSS Layout, JS Functions</font>](/Code201/class-04.md)|
