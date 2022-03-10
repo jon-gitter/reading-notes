@@ -1,6 +1,6 @@
 # Reading Notes
 
-## Hi! My name is Jon and I'm a student at Code Fellows learning to code.  I'm excited to start my journey in IT and bring more technical expertise to my leadership experience from the military and business world. This README is designed to house my reading notes from each of the classes I took while attending Code Fellows.
+#### Hi! My name is Jon and I'm a student at Code Fellows learning to code.  I'm excited to start my journey in IT and bring more technical expertise to my leadership experience from the military and business world. This README is designed to house my reading notes from each of the classes I took while attending Code Fellows.
 
 ### Below are links to my LinkedIn Profile, Github, and a Table of Contents for my coursework. 
 
