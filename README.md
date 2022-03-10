@@ -32,7 +32,7 @@
 
 
 
-## Table of Contents Code 102 Labs:
+<!-- ## Table of Contents Code 102 Labs:
 + [Lab01b - Growth Mindset](https://jon-gitter.github.io/reading-notes/Code102/Lab01b.md)
 + [Lab03 - Revisions and the Cloud](https://jon-gitter.github.io/reading-notes/Code102/Lab03.md)
 + [Lab04 - Structure Web Page with HTML](https://jon-gitter.github.io/reading-notes/Code102/homepage.html)
@@ -40,7 +40,7 @@
 
 
 ## Table of Contents Code 201 Labs:
-+ [Lab01b - Getting Up and Running!](https://jon-gitter.github.io/reading-notes/Code201/Lab01b.html)
++ [Lab01b - Getting Up and Running!](https://jon-gitter.github.io/reading-notes/Code201/Lab01b.html) -->
 
 
 
