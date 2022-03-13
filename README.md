@@ -13,7 +13,6 @@
 ### Reading Notes Table of Contents:
 
 | **Code 102 - Intro to Software Development** | **Code 201 - Foundations of Software Development** | **Code 301 - Intermediate Software Development** |
-|:---:|:---:|
 | [<font size ="2">Read01 - Basic Syntax Examples</font>](/Code102/Read01.md) | [<font size ="2">Read01 - Intro HTML and JavaScript</font>](/Code201/class-01.md) | [<font size ="2">Read01 - Introduction to React and Components</font>](/Code301/class-01.md) |            
 |[<font size ="2">Read02 - Choosing a Text Editor</font>](/Code102/Read02.md)|[<font size ="2">Read02 - HTML Text, CSS Intro, and Basic JavaScript Instructions</font>](/Code201/class-02.md)|| [<font size ="2">Read02 - State and Props </font>](/Code301/class-02.md) |           
 |[<font size ="2">Read03 - Revisions and the Cloud</font>](/Code102/Read03.md)|[<font size ="2">Read03 - HTML Lists, CSS Boxes, JS Control Flow</font>](/Code201/class-03.md)|[<font size ="2">Read03 - Passing Functions as Props </font>](/Code301/class-03.md)|
