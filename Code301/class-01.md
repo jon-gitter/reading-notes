@@ -1,7 +1,7 @@
 [Table of Contents](https://jon-gitter.github.io/reading-notes/)
 
 ## Component-Based Architecture
-https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm
+Source = https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm
 
 1. What is a “component”?
   - a modular, portable, replaceable, and reusable set of well-defined functionality that encapsulates its implementation and exporting it as a higher-level interface.
@@ -27,7 +27,7 @@ https://www.tutorialspoint.com/software_architecture_design/component_based_arch
 
 
 ## What is Props and How to Use it in React
-https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0#:~:text=%E2%80%9CProps%E2%80%9D%20is%20a%20special%20keyword,way%20from%20parent%20to%20child
+Source = https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0#:~:text=%E2%80%9CProps%E2%80%9D%20is%20a%20special%20keyword,way%20from%20parent%20to%20child
 
 1. What is “props” short for?
   - properties
