@@ -63,6 +63,10 @@ Summary:
 - Props data is immutable (read-only)
 
 
-
+## Things I want to know more about
+Re-review these websites to get more familiar with their topics
+- https://reactjs.org/tutorial/tutorial.html
+- https://reactjs.org/docs/hello-world.html
+- https://reactjs.org/docs/components-and-props.html
 
 [Table of Contents](https://jon-gitter.github.io/reading-notes/)
